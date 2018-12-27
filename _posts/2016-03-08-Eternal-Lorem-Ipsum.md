@@ -4,7 +4,7 @@ title: The Eternal Lorem Ipsum Placeholder Text Here
 author: Author Name
 ---
 
-
+------
 # 불편한 점 : 
 * 기존의 네비게이션의 보행시 소요시간은 고정 돼있음. 나 같이 빨리 걷는 사람에겐 정보가 부정확함. 에서 시작
 
