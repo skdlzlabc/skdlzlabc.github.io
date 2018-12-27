@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: 아이디어톤 
 author: Jeon Woo Hyung
 ---
 
