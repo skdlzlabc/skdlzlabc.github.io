@@ -10,7 +10,7 @@ author: Author Name
 
 서울_6반_전우형 // https://github.com/hellojdh/jmt_bot
 
-1. 스펙
+# 스펙
 소소한 재미를 느낄 수 있는 챗봇 게임
 
 * 업다운 게임
@@ -18,7 +18,7 @@ author: Author Name
 * 끝말 잇기 
 
 
-2. 회고
+# 회고
 
 - urllib를 사용해 웹에서 이미지를 갖고 오지못하는 문제점이 있었다
 	=> Selenium으로 사용
@@ -26,7 +26,7 @@ author: Author Name
 	=> set을 이용해 같은 시간에 들어오는 메시지 거르기
 
 
-3. 보완 계획
+# 보완 계획
 
 - 동물 맞추기 게임
 
