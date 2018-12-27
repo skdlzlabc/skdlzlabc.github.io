@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+author: Jeon Woo Hyung
 ---
 
 ------
