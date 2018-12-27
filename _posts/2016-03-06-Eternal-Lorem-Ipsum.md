@@ -1,12 +1,8 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
+title: 나만의 챗봇 만들기
 author: Author Name
 ---
-
-주제2
-
------
 
 서울_6반_전우형 // https://github.com/hellojdh/jmt_bot
 
